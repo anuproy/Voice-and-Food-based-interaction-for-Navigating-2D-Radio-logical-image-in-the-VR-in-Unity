@@ -5,13 +5,17 @@ Our ambition is to create a virtual environment that feels realistic OT, where t
 <details><summary>Video Resource:</summary>
 <p>
 
-1. Operation Theatre Room
+1. Operation Theatre Room [See on YouTube](https://youtu.be/J-Cj34Edk6U)
 
 [![OT Room Command](https://img.youtube.com/vi/J-Cj34Edk6U/1.jpg)](https://youtu.be/J-Cj34Edk6U)
 
-2. Voice Command
+2. Voice Command [See on YouTube](https://youtu.be/iLQDs32sj8Q)
 
 [![Voice Command](https://img.youtube.com/vi/iLQDs32sj8Q/1.jpg)](https://youtu.be/iLQDs32sj8Q)
+
+3. Foot-Based [See on YouTube](https://youtu.be/4YYAUGX2i8I)
+
+[![Footbased](https://img.youtube.com/vi/4YYAUGX2i8I/1.jpg)](https://youtu.be/4YYAUGX2i8I)
 
 </p>
 </details>
