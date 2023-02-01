@@ -32,22 +32,23 @@ Practically the environment has been designed according to the surgeon's point o
 A dummy box consists of different material of balls, is placed on top of the table and its surrounding is covered with piece of green clothes as shown in Figure 1.
 A set of 2D CT scan images will be display in the VR environment, screenshot of 2D image shown in Figure 2.
 
+| Figure 1 | Figure 2 |
+| --- | --- |
+| <img alt="Alt text" width="450" height="250" src="https://raw.githubusercontent.com/anuproy/Voice-and-Food-based-interaction-for-Navigating-2D-Radio-logical-image-in-the-VR-in-Unity/master/Image/Dummy%20Box.png" title="Figure 1"> | <img alt="Alt text" width="450" height="250" src="https://raw.githubusercontent.com/anuproy/Voice-and-Food-based-interaction-for-Navigating-2D-Radio-logical-image-in-the-VR-in-Unity/master/Image/RadioLogical%20Image.png" title="Figure 2">
+
+
 ### Method 1(Interactive-shoe):
-Task:  You will stand/sit in front of the table wearing Interactive-shoe. Your task is to fetch the small ball which is hidden in one of the big balls from the stack of 2D CT scan images. For this, please see all or few of the 2D CT scan images in the computer screen by scrolling up or down to detect the hidden small ball.
+
+**Task:** 
 To activate the scrolling command: press the push-button side of the interactive-shoe
-For scrolling up: drag your foot forward
-For scrolling down: drag your foot backward
-To freeze the screen: press the push-button side of the interactive-shoe
+* For scrolling up: drag your foot forward
+* For scrolling down: drag your foot backward
+* To freeze the screen: press the push-button side of the interactive-shoe
 
-You will repeat the same task three times with different set of CT scan images.
-Method 2(voice command):
-Task:  You will stand/sit in front of the table. Your task is to fetch the small ball which is hidden in one of the big balls from the stack of 2D CT scan images using voice command. For this, please see all or few of the 2D CT scan images in the computer screen by scrolling up or down to detect the hidden small ball.
-For scrolling up:  please say “UP/ FORWARD” 
-For scroll down: please say “DOWN/ BACKWARD”
-
-You will repeat the same task three times with different set of CT scan images.
-
-After the completion of each task you suppose to attend post-test and post-task questionnaire
+### Method 2(voice command):
+**Task:**  For this, please see all or few of the 2D CT scan images in the computer screen by scrolling up or down to detect the hidden small ball.
+* For scrolling up:  please say “UP/ FORWARD” 
+* For scroll down: please say “DOWN/ BACKWARD”
 
 
 ## **Reseach Link**: Published in 2019 22nd International Conference on Computer and Information Technology (ICCIT) [IEEE](https://ieeexplore.ieee.org/abstract/document/9038175)
