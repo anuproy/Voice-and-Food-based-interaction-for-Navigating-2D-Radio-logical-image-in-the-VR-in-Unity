@@ -5,14 +5,16 @@ The usual way of interacting with the radiology images in OT(Operation Theatre) 
 
 We have designed a Virtual Reality Operation Theatre in perspective of Bangladesh. In  this environment, innovative interaction tools can be preliminary evaluated to determine how much usable and efficient the tools for real operation theater, without incorporating new tools into the real operation theatre. 
 
-Considering the light view of the patient, the user can move the surgical lamps, image view monitor. In this environment, the most common types of equipment and surgical tools have been introduced as well as 
+Considering the light view of the patient, the user can move the surgical lamps, image view monitor. In this environment, the most common types of equipment and surgical tools have been introduced as well as
+<img align="right" alt ="Anup Roy" width="450" height="250" src="https://raw.githubusercontent.com/anuproy/Voice-and-Food-based-interaction-for-Navigating-2D-Radio-logical-image-in-the-VR-in-Unity/master/Image/OT%20Environment.png">
 * artificial patient -A,
 * X-ray machine -B, 
 * anesthesia -C,
 * surgical lamp -D,
 * surgery tools –E (scissors, forceps, scalpel, knife).
 Practically the environment has been designed according to the surgeon's point of view, users see the way they want to look.
-## **Reseach Link**: Published in 2019 22nd International Conference on Computer and Information Technology (ICCIT) [IEEE](https://ieeexplore.ieee.org/abstract/document/9038175)
+
+
 
 <details><summary>Video Resource:</summary>
 <p>
@@ -23,3 +25,7 @@ Practically the environment has been designed according to the surgeon's point o
 
 </p>
 </details>
+
+## **Reseach Link**: Published in 2019 22nd International Conference on Computer and Information Technology (ICCIT) [IEEE](https://ieeexplore.ieee.org/abstract/document/9038175)
+
+
