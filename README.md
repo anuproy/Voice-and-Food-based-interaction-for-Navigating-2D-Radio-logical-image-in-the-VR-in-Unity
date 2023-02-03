@@ -35,13 +35,18 @@ A set of 2D CT scan images will be display in the VR environment, screenshot of 
 
 ### Method 1(Interactive-shoe):
 
-**Task:** 
-To activate the scrolling command: press the _push-button_ side of the interactive-shoe
+<img align="right" alt ="Interactive shoe" width="250" height="150" src="https://raw.githubusercontent.com/anuproy/Voice-and-Food-based-interaction-for-Navigating-2D-Radio-logical-image-in-the-VR-in-Unity/master/Image/Interactive%20Shoe.png">
+
+**Task:** To activate the scrolling command: press the _push-button_ side of the interactive-shoe
 * For scrolling up: **drag your foot _forward_**
 * For scrolling down: **drag your foot _backward_**
 * To freeze the screen: press the _push-button_ side of the interactive-shoe
 
+
 ### Method 2(voice command):
+
+<img align="right" alt ="Voice Command" width="250" height="150" src="https://raw.githubusercontent.com/anuproy/Voice-and-Food-based-interaction-for-Navigating-2D-Radio-logical-image-in-the-VR-in-Unity/master/Image/Voice%20Coomand.png">
+
 **Task:**  For this, please see all or few of the 2D CT scan images in the computer screen by scrolling up or down to detect the hidden small ball.
 * For scrolling up:  **please say “_UP/ FORWARD”_**
 * For scroll down: **please say “_DOWN/ BACKWARD_”**
